@@ -17,4 +17,4 @@ Este repositório contém as atividades práticas desenvolvidas para a disciplin
 * Git/GitHub
 
 ---
-Desenvolvido por **Alex Silveira**
+Desenvolvido por **Juliana Vieira Lemos**
